@@ -1,0 +1,20 @@
+{
+    "Author": "Adam Humphrey",
+    "ContentSize": 27804,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/application-lob-add-multi-tenant/master/Application_LOB_Add.ps1",
+    "DownloadCount": 606,
+    "Id": "Application-LOB-ADD-Multi-51031476",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 278,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2018-9-18T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script is based on the available scripts at github, which uses Graph API in order to automate common tasks that would otherwise need to be carried out using the graphical interface of the Azure website, which can be time consuming, particulary if you  need to carry out the s",
+    "Title": "Application LOB ADD Multi Tenant",
+    "UpdatedDate": "2018-10-3T00:00:00",
+    "Url": "https://github.com/azureautomation/application-lob-add-multi-tenant",
+    "UserTags": "Microsoft Azure, BITS, Windows Azure PowerShell"
+}
